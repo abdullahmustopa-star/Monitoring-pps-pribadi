@@ -13,7 +13,6 @@ import os
 
 kivy.require('2.1.0')
 Window.clearcolor = (0.93, 0.94, 0.96, 1)
-
 DB_NAME = "monitoring_data.db"
 DRIVE_DB_PATH = "/content/drive/MyDrive/APK_Monitoring/monitoring_data.db" 
 
